@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+Thanks for visiting my profile. Lately I have been doing a lot of interaction between Typescript and Kubernetes but I also got some fun projects in the works with WebGL. My goals for the next year are contributing more to open source and learning more Golang. Come see me at https://clintonmedbery.dev/.
+
+-----
 
 <!--
 **clintonmedbery/clintonmedbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
